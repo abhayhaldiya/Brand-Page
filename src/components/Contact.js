@@ -69,6 +69,7 @@ function Contact() {
             background-color: #e11b1b;
             color: #fff;
             cursor: pointer;
+           width:85px
           }
         `}
       </style>
@@ -77,10 +78,10 @@ function Contact() {
           <div className="col">
             <div className="Head text-center">
               <h1
-                style={{ fontSize: "80px", marginTop: "35px" }}
+                style={{ fontSize: "80px", marginTop: "90px" }}
                 className="geologica-custom"
               >
-                We're here for you.
+                Contact Us.
               </h1>
             </div>
             <div

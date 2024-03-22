@@ -33,10 +33,10 @@ function Location() {
             src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d79695.57407935332!2d79.13147067131939!3d28.022028951807723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1710577966006!5m2!1sen!2sin"
             width="1100"
             height="680"
-            style={{ border: "0" }} // Changed from style="border:0;" to an object style
-            allowFullScreen // Changed from allowfullscreen="yes" to allowFullScreen
+            style={{ border: "0" }}
+            allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade" // Corrected attribute name
+            referrerPolicy="no-referrer-when-downgrade"
           ></iframe>
         </div>
         <div class="col-4">
